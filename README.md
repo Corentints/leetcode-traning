@@ -30,7 +30,7 @@ To-do list for solving LeetCode problems, based on [this resource](https://githu
 - [ ] [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 
 ### Linked Lists
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/?envType=list&envId=xler4hke)
+- [X] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/?envType=list&envId=xler4hke)
 - [ ] [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/?envType=list&envId=xler4hke)
 - [ ] [Rotate List](https://leetcode.com/problems/rotate-list/description/?envType=list&envId=xler4hke)
 - [ ] [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/?envType=list&envId=xler4hke)
