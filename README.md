@@ -22,7 +22,7 @@ To-do list for solving LeetCode problems, based on [this resource](https://githu
 - [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 - [ ] [Kth smallest element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
 - [ ] [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
-- [ ] [Path Sum](https://leetcode.com/problems/path-sum/description/?envType=list&envId=xlemouqi)
+- [X] [Path Sum](https://leetcode.com/problems/path-sum/description/?envType=list&envId=xlemouqi)
 - [ ] [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/?envType=list&envId=xlemouqi)
 - [ ] [Merge two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/?envType=list&envId=xlemouqi)
 - [ ] [Word Search](https://leetcode.com/problems/word-search/)
