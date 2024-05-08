@@ -10,18 +10,17 @@
  * }
  */
 
-function dst(item: ListNode | null, head: ListNode | null) {
+function dst(item: ListNode | null, head: ListNode) {
     if (item === null) {
         return head;
     }
 
-    return dst(item.next, new ListNode(item.val, head));
+    const newHead = new ListNode(item.val, head);
+    return dst(item.next, newHead);
 }
 
 function reverseList(head: ListNode | null): ListNode | null {
-    if (head === null) {
-        return null;
-    }
+    if (!head) return head;
 
-     return dst(head.next, new ListNode(head.val, null));
+    return dst(head, null);
 };
