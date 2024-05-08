@@ -15,12 +15,13 @@ function dst(item: ListNode | null, head: ListNode) {
         return head;
     }
 
-    const newHead = new ListNode(item.val, head);
-    return dst(item.next, newHead);
+    return dst(item.next, new ListNode(item.val, head));
 }
 
 function reverseList(head: ListNode | null): ListNode | null {
-    if (!head) return head;
+    if (head === null) {
+        return head;
+    }
 
     return dst(head, null);
 };
